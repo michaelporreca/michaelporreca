@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @michaelporreca
-- 🌱  I’m currently learning full stack web development with a focus on front-end.
+- 🌱  I’m currently learning full stack web development with a focus on front-end at IronHack.
 - 📫  You can reach me by email at michaelporreca@gmail.com
 
 This is currently under construction and will be updated in time.
