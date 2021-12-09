@@ -1,5 +1,5 @@
 # 👋  Whats up, I’m @michaelporreca!
-I’m currently a student at Ironhack learning to become a full stack web developer.
+I'm a recent graduate from Ironhack with a certificate in Full Stack Web Development. I'm a junior full stack web developer looking to build more knowledge within the industry.
 
 You can reach me by email at 📫 [michaelporreca@gmail.com](mailto:michaelporreca@gmail.com)
 
